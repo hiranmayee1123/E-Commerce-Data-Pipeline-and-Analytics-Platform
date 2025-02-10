@@ -1,0 +1,101 @@
+order_id,product,category,price,discounted_price,order_date,customer_id
+101,Monitor,Accessories,229.99,208.54,2024-08-15,5029
+102,Headphones,Accessories,199.99,188.59,2024-04-04,5100
+103,Smartphone,Electronics,699.99,595.04,2024-05-03,5018
+104,Headphones,Accessories,199.99,183.8,2023-06-26,5041
+105,External Hard Drive,Storage,89.99,76.6,2023-03-18,5042
+106,Smartphone,Electronics,699.99,653.07,2023-07-31,5099
+107,Tablet,Electronics,499.99,451.55,2024-08-12,5072
+108,Headphones,Accessories,199.99,171.08,2023-12-15,5096
+109,External Hard Drive,Storage,89.99,84.56,2024-06-30,5022
+110,Monitor,Accessories,229.99,217.66,2024-10-02,5060
+111,Smartphone,Electronics,699.99,617.95,2023-06-09,5011
+112,External Hard Drive,Storage,89.99,83.67,2024-02-17,5079
+113,Tablet,Electronics,499.99,435.05,2024-04-01,5031
+114,Keyboard,Accessories,79.99,74.24,2023-04-04,5053
+115,Speaker,Electronics,119.99,108.56,2023-12-02,5074
+116,Smartphone,Electronics,699.99,664.17,2024-08-27,5061
+117,Smartwatch,Wearables,349.99,324.8,2024-05-08,5013
+118,Keyboard,Accessories,79.99,75.65,2023-10-01,5060
+119,Monitor,Accessories,229.99,205.8,2024-09-23,5095
+120,Speaker,Electronics,119.99,111.85,2023-06-11,5059
+121,Keyboard,Accessories,79.99,68.96,2023-12-17,5090
+122,Monitor,Accessories,229.99,208.2,2023-07-12,5048
+123,Keyboard,Accessories,79.99,72.18,2024-07-17,5037
+124,Headphones,Accessories,199.99,189.06,2023-07-10,5017
+125,Monitor,Accessories,229.99,202.12,2023-08-01,5082
+126,Keyboard,Accessories,79.99,71.36,2024-05-23,5030
+127,Monitor,Accessories,229.99,211.37,2023-12-29,5016
+128,External Hard Drive,Storage,89.99,83.66,2024-04-22,5003
+129,Smartphone,Electronics,699.99,624.67,2023-10-27,5038
+130,Mouse,Accessories,49.99,45.98,2024-06-27,5089
+131,External Hard Drive,Storage,89.99,80.07,2024-02-08,5092
+132,Headphones,Accessories,199.99,187.43,2023-05-21,5042
+133,Headphones,Accessories,199.99,171.13,2024-01-02,5017
+134,Monitor,Accessories,229.99,213.09,2024-01-04,5092
+135,External Hard Drive,Storage,89.99,83.33,2023-03-09,5074
+136,Laptop,Electronics,1299.99,1137.32,2023-11-01,5021
+137,Keyboard,Accessories,79.99,73.94,2024-06-18,5011
+138,Speaker,Electronics,119.99,108.14,2024-10-09,5034
+139,Headphones,Accessories,199.99,176.41,2025-01-14,5100
+140,Laptop,Electronics,1299.99,1159.51,2023-02-10,5024
+141,Smartphone,Electronics,699.99,623.13,2023-02-26,5075
+142,Monitor,Accessories,229.99,209.11,2024-01-13,5028
+143,Smartwatch,Wearables,349.99,305.3,2025-02-04,5025
+144,Smartphone,Electronics,699.99,616.72,2025-02-08,5076
+145,Keyboard,Accessories,79.99,72.36,2024-10-14,5033
+146,Mouse,Accessories,49.99,46.49,2024-12-17,5014
+147,Mouse,Accessories,49.99,45.95,2024-04-24,5031
+148,Monitor,Accessories,229.99,202.83,2024-05-15,5084
+149,External Hard Drive,Storage,89.99,82.44,2024-11-25,5091
+150,Headphones,Accessories,199.99,176.61,2024-06-04,5091
+151,Tablet,Electronics,499.99,450.14,2024-03-23,5020
+152,Smartwatch,Wearables,349.99,309.27,2024-12-27,5005
+153,Keyboard,Accessories,79.99,75.36,2023-12-11,5053
+154,External Hard Drive,Storage,89.99,79.35,2024-12-02,5015
+155,Smartphone,Electronics,699.99,639.62,2023-02-13,5096
+156,External Hard Drive,Storage,89.99,85.11,2024-04-21,5023
+157,Keyboard,Accessories,79.99,68.89,2023-11-03,5041
+158,Keyboard,Accessories,79.99,75.17,2023-05-10,5068
+159,Laptop,Electronics,1299.99,1149.59,2023-07-09,5005
+160,Tablet,Electronics,499.99,436.21,2023-12-14,5098
+161,Mouse,Accessories,49.99,44.31,2023-09-28,5008
+162,Smartwatch,Wearables,349.99,301.56,2024-07-05,5087
+163,Tablet,Electronics,499.99,464.74,2023-11-16,5096
+164,Smartwatch,Wearables,349.99,298.64,2024-07-23,5097
+165,Headphones,Accessories,199.99,188.53,2024-07-31,5033
+166,External Hard Drive,Storage,89.99,83.31,2023-09-08,5053
+167,Headphones,Accessories,199.99,185.48,2023-12-12,5090
+168,Keyboard,Accessories,79.99,73.97,2024-12-07,5095
+169,Headphones,Accessories,199.99,180.42,2024-08-13,5049
+170,Smartwatch,Wearables,349.99,312.24,2023-09-06,5038
+171,External Hard Drive,Storage,89.99,80.4,2023-05-23,5025
+172,Mouse,Accessories,49.99,43.15,2023-12-12,5081
+173,Mouse,Accessories,49.99,42.86,2024-07-04,5054
+174,Smartphone,Electronics,699.99,657.89,2024-02-08,5065
+175,External Hard Drive,Storage,89.99,77.78,2024-03-31,5072
+176,Headphones,Accessories,199.99,187.57,2023-09-13,5010
+177,Laptop,Electronics,1299.99,1212.17,2024-03-19,5048
+178,Monitor,Accessories,229.99,202.95,2024-01-31,5059
+179,External Hard Drive,Storage,89.99,84.58,2024-03-05,5007
+180,Speaker,Electronics,119.99,108.14,2024-03-12,5013
+181,External Hard Drive,Storage,89.99,81.21,2023-04-17,5013
+182,Laptop,Electronics,1299.99,1184.14,2023-08-27,5094
+183,External Hard Drive,Storage,89.99,81.79,2023-04-11,5040
+184,Smartphone,Electronics,699.99,641.41,2023-05-16,5089
+185,Speaker,Electronics,119.99,110.49,2023-09-17,5083
+186,Mouse,Accessories,49.99,44.44,2024-06-14,5091
+187,Monitor,Accessories,229.99,218.11,2024-02-29,5091
+188,Keyboard,Accessories,79.99,70.67,2024-06-26,5002
+189,Keyboard,Accessories,79.99,73.33,2024-11-13,5008
+190,Tablet,Electronics,499.99,453.21,2024-10-29,5059
+191,Headphones,Accessories,199.99,185.19,2023-05-07,5005
+192,Mouse,Accessories,49.99,44.01,2024-07-31,5023
+193,Keyboard,Accessories,79.99,75.32,2023-10-30,5050
+194,Monitor,Accessories,229.99,201.31,2023-03-24,5051
+195,Monitor,Accessories,229.99,207.06,2023-10-20,5055
+196,Monitor,Accessories,229.99,212.83,2024-07-31,5011
+197,Smartwatch,Wearables,349.99,315.44,2023-03-08,5030
+198,Keyboard,Accessories,79.99,75.82,2023-10-23,5058
+199,Smartwatch,Wearables,349.99,329.7,2023-04-21,5038
+200,Speaker,Electronics,119.99,108.08,2024-09-20,5093
